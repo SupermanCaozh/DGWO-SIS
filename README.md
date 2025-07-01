@@ -1,2 +1,8 @@
 # DGWO-SIS
-This repository contains the official code and dataset of our paper titled "_A Discrete Grey Wolf Optimizer for the Satellite Image Segmentation Problem_". This repository is provided strictly for confidential peer review purposes only under **_Advances in Space Research_**’s evaluation process.
+This repository contains the official code for the paper titled "**A Discrete Grey Wolf Optimizer for the Satellite Image Segmentation Problem**" submitted to the ***Advances in Space Research***. This repository also contains all test images used in the study.
+
+# Folder Structure
+DGWO-SIS/
+├── dataset/          # Folder for all test images
+├── DGWO.py          # Main algorithm implementation
+└── solution.py      # Result saving format 
